@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple/DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <key>PayloadContent</key>
+  <array>
+    <dict>
+      <key>PayloadType</key>
+      <string>com.apple.webClip.managed</string>
+      <key>FullScreen</key>
+      <true/>
+      <key>IgnoreManifestScope</key>
+      <true/>
+      <key>Label</key>
+      <string>AppIsland</string>
+      <key>URL</key>
+      <string>https://appisland.youngchief.tk/</string>
+    </dict>
+  </array>
+  <key>PayloadDescription</key>
+  <string>Profile that manages external device-less installs of apps (in alpha stage)</string>
+  <key>PayloadDisplayName</key>
+  <string>AppIsland</string>
+  <key>PayloadIdentifier</key>
+  <string>tk.youngchief.appisland.configprofile</string>
+  <key>PayloadOrganization</key>
+  <string>youngchief btw ツ</string>
+  <key>PayloadType</key>
+  <string>Configuration</string>
+  <key>PayloadVersion</key>
+  <integer>1</integer>
+</plist>
